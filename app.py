@@ -2,7 +2,7 @@ import joblib
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Rwanda House Price Prediction", page_icon="🏠", layout="wide")
+st.set_page_config(page_title="Rwanda House Price Prediction",  layout="wide")
 
 @st.cache_resource
 def load_model():
