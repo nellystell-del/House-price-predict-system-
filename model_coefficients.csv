@@ -1,0 +1,12 @@
+Variable,Coefficient
+numeric__Area_m2,0.13766633909242731
+numeric__Bedrooms,-7.469793367782763
+numeric__Bathrooms,43.959917179651306
+numeric__House_Age_Years,-0.9805481902029229
+numeric__Distance_to_City_km,0.6730782932456564
+numeric__Parking_Spaces,18.915372034166882
+categorical__Neighborhood_Huye,-10.12533421413067
+categorical__Neighborhood_Kicukiro,-5.6681096457151074
+categorical__Neighborhood_Kigali City,31.26504968778542
+categorical__Neighborhood_Musanze,56.38150061336707
+categorical__Neighborhood_Nyarugenge,20.652282704023733
