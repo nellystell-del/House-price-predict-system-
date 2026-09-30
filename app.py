@@ -10,7 +10,7 @@ def load_model():
 
 model=load_model()
 
-st.title("🏠 Rwanda House Price Prediction")
+st.title(" Rwanda House Price Prediction")
 st.write("Enter house characteristics to estimate the price in Million RWF.")
 
 c1,c2=st.columns(2)
